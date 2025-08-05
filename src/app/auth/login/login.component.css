@@ -1,0 +1,52 @@
+.login-card {
+  width: 340px;
+  padding: 18px;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+  font-family: Arial, sans-serif;
+}
+
+.login-header { display:flex; gap:10px; align-items:center; margin-bottom:12px; }
+.login-header h3 { margin:0; font-size:18px; color:#333; }
+
+input[type="email"], input[type="password"] {
+  width:100%;
+  padding:10px;
+  margin-bottom:8px;
+  border-radius:6px;
+  border:1px solid #e0e0e0;
+  box-sizing:border-box;
+}
+
+.row { display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; }
+.remember { font-size:13px; display:flex; gap:6px; align-items:center; }
+.forgot { font-size:13px; color:#3808f9; text-decoration:none; }
+.btn { width:100%; padding:10px; border-radius:6px; background:#97592E; color:#fff; border:none; cursor:pointer; }
+.signup { text-align:center; margin-top:12px; font-size:13px; color:#666; }
+.error small { color:#d32f2f; font-size:12px; }
+
+
+.center-text {
+  display: flex;
+  flex-direction: column; /* empile les éléments */
+  align-items: center; /* centre horizontalement */
+  text-align: center;
+}
+
+.remember {
+  margin-bottom: 8px; /* espace entre les deux */
+}
+
+
+
+.forgot:hover {
+  text-decoration: underline;
+}
+
+.icon-img {
+  width: 28px;     /* taille de l'icône */
+  height: 28px;
+}
+
+

@@ -1,0 +1,10 @@
+.page-container {
+  display: flex;
+  justify-content: flex-end; /* Aligné à droite */
+  align-items: flex-start;   /* Gardé en haut */
+  padding: 40px;
+}
+
+.login-container {
+  margin-top: 80px; /* Réserve la place pour une future bannière */
+}

@@ -1,1 +1,40 @@
-<p>login works!</p>
+<div class="login-card" role="form" aria-label="Formulaire de connexion">
+  <div class="login-header">
+    <img src="assets/icons/login-icon.png" alt="Icône connexion" class="icon-img">
+
+    <h3>Se connecter</h3>
+  </div>
+
+  <form [formGroup]="loginForm" (ngSubmit)="onSubmit()" novalidate>
+    <input type="email" formControlName="email" placeholder="Email" aria-label="Email" />
+    <div class="error" *ngIf="submitted && f['email'].invalid">
+      <small *ngIf="f['email'].errors?.['required']">Email requis.</small>
+      <small *ngIf="f['email'].errors?.['email']">Email invalide.</small>
+    </div>
+
+    <input type="password" formControlName="password" placeholder="Mot de passe" aria-label="Mot de passe" />
+    <div class="error" *ngIf="submitted && f['password'].invalid">
+      <small *ngIf="f['password'].errors?.['required']">Mot de passe requis.</small>
+      <small *ngIf="f['password'].errors?.['minlength']">Minimum 6 caractères.</small>
+    </div>
+
+    <div class="row center-text">
+      <label class="remember">
+        <input type="checkbox" formControlName="rememberMe" />
+        Se souvenir de moi
+      </label>
+      <div class="forgot-container">
+        <a class="forgot" href="#" (click)="$event.preventDefault()">Mot de passe oublié ?</a>
+      </div>
+    </div>
+
+
+    <div *ngIf="error" class="error"><small>{{ error }}</small></div>
+
+    <button class="btn" type="submit" [disabled]="loading">{{ loading ? 'Connexion...' : 'Connexion' }}</button>
+  </form>
+
+  <div class="signup">
+    <a href="#" (click)="$event.preventDefault()">Créer un compte</a>
+  </div>
+</div>
