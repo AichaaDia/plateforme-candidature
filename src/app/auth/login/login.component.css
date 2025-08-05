@@ -7,8 +7,26 @@
   font-family: Arial, sans-serif;
 }
 
-.login-header { display:flex; gap:10px; align-items:center; margin-bottom:12px; }
-.login-header h3 { margin:0; font-size:18px; color:#333; }
+.login-header {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Centre horizontalement */
+  gap: 10px; /* Espace entre l'image et le texte */
+  margin-bottom: 12px;
+}
+
+.login-header h3 {
+  margin: 0;
+  font-size: 18px;
+  color: #333;
+  text-align: center;
+}
+
+.icon-img {
+  width: 24px;   /* Largeur de l’image */
+  height: 24px;  /* Hauteur de l’image */
+  object-fit: contain;
+}
 
 input[type="email"], input[type="password"] {
   width:100%;
