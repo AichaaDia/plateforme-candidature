@@ -1,0 +1,60 @@
+.guide-card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 1.5rem;
+  margin-top: 1rem;
+  margin-right: 2rem;
+  width: 100%;
+  max-width: 300px;
+  font-family: 'Segoe UI', sans-serif;
+
+  /* Ombres comme sur la maquette */
+  box-shadow: 25px 25px 25px 25px rgba(0, 0, 0, 0.1);
+}
+
+.guide-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.icon {
+  font-size: 1.5rem;
+}
+
+h2 {
+  margin: 0;
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #000;
+}
+
+.guide-text, .guide-ou {
+  font-size: 0.95rem;
+  margin-bottom: 0.8rem;
+  color: #333;
+}
+
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 0.75rem 1rem;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-bottom: 1rem;
+}
+
+.brown-button {
+  background-color: #8b4e23;
+  color: white;
+}
+
+.brown-button:hover {
+  background-color: #6e3f1d;
+}
