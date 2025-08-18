@@ -1,0 +1,461 @@
+[
+  {
+    "id": 1,
+    "title": "Licence Informatique",
+    "institution": "Université Cheikh Anta Diop - UCAD",
+    "level": "Licence",
+    "duration": "3 ans",
+    "description": "Programme Licence Informatique proposé par Université Cheikh Anta Diop - UCAD",
+    "detailsLink": "#"
+  },
+  {
+    "id": 2,
+    "title": "Licence Mathématiques",
+    "institution": "Université Gaston Berger - UGB",
+    "level": "Master",
+    "duration": "4 ans",
+    "description": "Programme Licence Mathématiques proposé par Université Gaston Berger - UGB",
+    "detailsLink": "#"
+  },
+  {
+    "id": 3,
+    "title": "Licence Physique",
+    "institution": "Université Assane Seck - UASZ",
+    "level": "Bac",
+    "duration": "5 ans",
+    "description": "Programme Licence Physique proposé par Université Assane Seck - UASZ",
+    "detailsLink": "#"
+  },
+  {
+    "id": 4,
+    "title": "Licence Gestion",
+    "institution": "École Supérieure Polytechnique - ESP",
+    "level": "Licence",
+    "duration": "2 ans",
+    "description": "Programme Licence Gestion proposé par École Supérieure Polytechnique - ESP",
+    "detailsLink": "#"
+  },
+  {
+    "id": 5,
+    "title": "Master en Intelligence Artificielle",
+    "institution": "Université Alioune Diop - UAD",
+    "level": "Master",
+    "duration": "3 ans",
+    "description": "Programme Master en Intelligence Artificielle proposé par Université Alioune Diop - UAD",
+    "detailsLink": "#"
+  },
+  {
+    "id": 6,
+    "title": "Master en Réseaux et Télécommunications",
+    "institution": "Université Virtuelle du Sénégal - UVS",
+    "level": "Bac",
+    "duration": "4 ans",
+    "description": "Programme Master en Réseaux et Télécommunications proposé par Université Virtuelle du Sénégal - UVS",
+    "detailsLink": "#"
+  },
+  {
+    "id": 7,
+    "title": "Master en Droit",
+    "institution": "Institut Supérieur d'Informatique - ISI",
+    "level": "Licence",
+    "duration": "5 ans",
+    "description": "Programme Master en Droit proposé par Institut Supérieur d'Informatique - ISI",
+    "detailsLink": "#"
+  },
+  {
+    "id": 8,
+    "title": "Doctorat en Sciences",
+    "institution": "SupdeCo Dakar",
+    "level": "Master",
+    "duration": "2 ans",
+    "description": "Programme Doctorat en Sciences proposé par SupdeCo Dakar",
+    "detailsLink": "#"
+  },
+  {
+    "id": 9,
+    "title": "BTS en Réseaux et Télécommunications",
+    "institution": "Ecole Nationale d'Économie Appliquée - ENEA",
+    "level": "Bac",
+    "duration": "3 ans",
+    "description": "Programme BTS en Réseaux et Télécommunications proposé par Ecole Nationale d'Économie Appliquée - ENEA",
+    "detailsLink": "#"
+  },
+  {
+    "id": 10,
+    "title": "BTS en Gestion",
+    "institution": "Institut Polytechnique de Saint Louis - IPSL",
+    "level": "Licence",
+    "duration": "4 ans",
+    "description": "Programme BTS en Gestion proposé par Institut Polytechnique de Saint Louis - IPSL",
+    "detailsLink": "#"
+  },
+  {
+    "id": 11,
+    "title": "Diplôme d'Ingénieur",
+    "institution": "Université Cheikh Anta Diop - UCAD",
+    "level": "Master",
+    "duration": "5 ans",
+    "description": "Programme Diplôme d'Ingénieur proposé par Université Cheikh Anta Diop - UCAD",
+    "detailsLink": "#"
+  },
+  {
+    "id": 12,
+    "title": "Classes Préparatoires Intégrées",
+    "institution": "Université Gaston Berger - UGB",
+    "level": "Bac",
+    "duration": "2 ans",
+    "description": "Programme Classes Préparatoires Intégrées proposé par Université Gaston Berger - UGB",
+    "detailsLink": "#"
+  },
+  {
+    "id": 13,
+    "title": "Licence Informatique",
+    "institution": "Université Assane Seck - UASZ",
+    "level": "Licence",
+    "duration": "3 ans",
+    "description": "Programme Licence Informatique proposé par Université Assane Seck - UASZ",
+    "detailsLink": "#"
+  },
+  {
+    "id": 14,
+    "title": "Licence Mathématiques",
+    "institution": "École Supérieure Polytechnique - ESP",
+    "level": "Master",
+    "duration": "4 ans",
+    "description": "Programme Licence Mathématiques proposé par École Supérieure Polytechnique - ESP",
+    "detailsLink": "#"
+  },
+  {
+    "id": 15,
+    "title": "Licence Physique",
+    "institution": "Université Alioune Diop - UAD",
+    "level": "Bac",
+    "duration": "5 ans",
+    "description": "Programme Licence Physique proposé par Université Alioune Diop - UAD",
+    "detailsLink": "#"
+  },
+  {
+    "id": 16,
+    "title": "Licence Gestion",
+    "institution": "Université Virtuelle du Sénégal - UVS",
+    "level": "Licence",
+    "duration": "2 ans",
+    "description": "Programme Licence Gestion proposé par Université Virtuelle du Sénégal - UVS",
+    "detailsLink": "#"
+  },
+  {
+    "id": 17,
+    "title": "Master en Intelligence Artificielle",
+    "institution": "Institut Supérieur d'Informatique - ISI",
+    "level": "Master",
+    "duration": "3 ans",
+    "description": "Programme Master en Intelligence Artificielle proposé par Institut Supérieur d'Informatique - ISI",
+    "detailsLink": "#"
+  },
+  {
+    "id": 18,
+    "title": "Master en Réseaux et Télécommunications",
+    "institution": "SupdeCo Dakar",
+    "level": "Bac",
+    "duration": "4 ans",
+    "description": "Programme Master en Réseaux et Télécommunications proposé par SupdeCo Dakar",
+    "detailsLink": "#"
+  },
+  {
+    "id": 19,
+    "title": "Master en Droit",
+    "institution": "Ecole Nationale d'Économie Appliquée - ENEA",
+    "level": "Licence",
+    "duration": "5 ans",
+    "description": "Programme Master en Droit proposé par Ecole Nationale d'Économie Appliquée - ENEA",
+    "detailsLink": "#"
+  },
+  {
+    "id": 20,
+    "title": "Doctorat en Sciences",
+    "institution": "Institut Polytechnique de Saint Louis - IPSL",
+    "level": "Master",
+    "duration": "2 ans",
+    "description": "Programme Doctorat en Sciences proposé par Institut Polytechnique de Saint Louis - IPSL",
+    "detailsLink": "#"
+  },
+  {
+    "id": 21,
+    "title": "BTS en Réseaux et Télécommunications",
+    "institution": "Université Cheikh Anta Diop - UCAD",
+    "level": "Bac",
+    "duration": "3 ans",
+    "description": "Programme BTS en Réseaux et Télécommunications proposé par Université Cheikh Anta Diop - UCAD",
+    "detailsLink": "#"
+  },
+  {
+    "id": 22,
+    "title": "BTS en Gestion",
+    "institution": "Université Gaston Berger - UGB",
+    "level": "Licence",
+    "duration": "4 ans",
+    "description": "Programme BTS en Gestion proposé par Université Gaston Berger - UGB",
+    "detailsLink": "#"
+  },
+  {
+    "id": 23,
+    "title": "Diplôme d'Ingénieur",
+    "institution": "Université Assane Seck - UASZ",
+    "level": "Master",
+    "duration": "5 ans",
+    "description": "Programme Diplôme d'Ingénieur proposé par Université Assane Seck - UASZ",
+    "detailsLink": "#"
+  },
+  {
+    "id": 24,
+    "title": "Classes Préparatoires Intégrées",
+    "institution": "École Supérieure Polytechnique - ESP",
+    "level": "Bac",
+    "duration": "2 ans",
+    "description": "Programme Classes Préparatoires Intégrées proposé par École Supérieure Polytechnique - ESP",
+    "detailsLink": "#"
+  },
+  {
+    "id": 25,
+    "title": "Licence Informatique",
+    "institution": "Université Alioune Diop - UAD",
+    "level": "Licence",
+    "duration": "3 ans",
+    "description": "Programme Licence Informatique proposé par Université Alioune Diop - UAD",
+    "detailsLink": "#"
+  },
+  {
+    "id": 26,
+    "title": "Licence Mathématiques",
+    "institution": "Université Virtuelle du Sénégal - UVS",
+    "level": "Master",
+    "duration": "4 ans",
+    "description": "Programme Licence Mathématiques proposé par Université Virtuelle du Sénégal - UVS",
+    "detailsLink": "#"
+  },
+  {
+    "id": 27,
+    "title": "Licence Physique",
+    "institution": "Institut Supérieur d'Informatique - ISI",
+    "level": "Bac",
+    "duration": "5 ans",
+    "description": "Programme Licence Physique proposé par Institut Supérieur d'Informatique - ISI",
+    "detailsLink": "#"
+  },
+  {
+    "id": 28,
+    "title": "Licence Gestion",
+    "institution": "SupdeCo Dakar",
+    "level": "Licence",
+    "duration": "2 ans",
+    "description": "Programme Licence Gestion proposé par SupdeCo Dakar",
+    "detailsLink": "#"
+  },
+  {
+    "id": 29,
+    "title": "Master en Intelligence Artificielle",
+    "institution": "Ecole Nationale d'Économie Appliquée - ENEA",
+    "level": "Master",
+    "duration": "3 ans",
+    "description": "Programme Master en Intelligence Artificielle proposé par Ecole Nationale d'Économie Appliquée - ENEA",
+    "detailsLink": "#"
+  },
+  {
+    "id": 30,
+    "title": "Master en Réseaux et Télécommunications",
+    "institution": "Institut Polytechnique de Saint Louis - IPSL",
+    "level": "Bac",
+    "duration": "4 ans",
+    "description": "Programme Master en Réseaux et Télécommunications proposé par Institut Polytechnique de Saint Louis - IPSL",
+    "detailsLink": "#"
+  },
+  {
+    "id": 31,
+    "title": "Master en Droit",
+    "institution": "Université Cheikh Anta Diop - UCAD",
+    "level": "Licence",
+    "duration": "5 ans",
+    "description": "Programme Master en Droit proposé par Université Cheikh Anta Diop - UCAD",
+    "detailsLink": "#"
+  },
+  {
+    "id": 32,
+    "title": "Doctorat en Sciences",
+    "institution": "Université Gaston Berger - UGB",
+    "level": "Master",
+    "duration": "2 ans",
+    "description": "Programme Doctorat en Sciences proposé par Université Gaston Berger - UGB",
+    "detailsLink": "#"
+  },
+  {
+    "id": 33,
+    "title": "BTS en Réseaux et Télécommunications",
+    "institution": "Université Assane Seck - UASZ",
+    "level": "Bac",
+    "duration": "3 ans",
+    "description": "Programme BTS en Réseaux et Télécommunications proposé par Université Assane Seck - UASZ",
+    "detailsLink": "#"
+  },
+  {
+    "id": 34,
+    "title": "BTS en Gestion",
+    "institution": "École Supérieure Polytechnique - ESP",
+    "level": "Licence",
+    "duration": "4 ans",
+    "description": "Programme BTS en Gestion proposé par École Supérieure Polytechnique - ESP",
+    "detailsLink": "#"
+  },
+  {
+    "id": 35,
+    "title": "Diplôme d'Ingénieur",
+    "institution": "Université Alioune Diop - UAD",
+    "level": "Master",
+    "duration": "5 ans",
+    "description": "Programme Diplôme d'Ingénieur proposé par Université Alioune Diop - UAD",
+    "detailsLink": "#"
+  },
+  {
+    "id": 36,
+    "title": "Classes Préparatoires Intégrées",
+    "institution": "Université Virtuelle du Sénégal - UVS",
+    "level": "Bac",
+    "duration": "2 ans",
+    "description": "Programme Classes Préparatoires Intégrées proposé par Université Virtuelle du Sénégal - UVS",
+    "detailsLink": "#"
+  },
+  {
+    "id": 37,
+    "title": "Licence Informatique",
+    "institution": "Institut Supérieur d'Informatique - ISI",
+    "level": "Licence",
+    "duration": "3 ans",
+    "description": "Programme Licence Informatique proposé par Institut Supérieur d'Informatique - ISI",
+    "detailsLink": "#"
+  },
+  {
+    "id": 38,
+    "title": "Licence Mathématiques",
+    "institution": "SupdeCo Dakar",
+    "level": "Master",
+    "duration": "4 ans",
+    "description": "Programme Licence Mathématiques proposé par SupdeCo Dakar",
+    "detailsLink": "#"
+  },
+  {
+    "id": 39,
+    "title": "Licence Physique",
+    "institution": "Ecole Nationale d'Économie Appliquée - ENEA",
+    "level": "Bac",
+    "duration": "5 ans",
+    "description": "Programme Licence Physique proposé par Ecole Nationale d'Économie Appliquée - ENEA",
+    "detailsLink": "#"
+  },
+  {
+    "id": 40,
+    "title": "Licence Gestion",
+    "institution": "Institut Polytechnique de Saint Louis - IPSL",
+    "level": "Licence",
+    "duration": "2 ans",
+    "description": "Programme Licence Gestion proposé par Institut Polytechnique de Saint Louis - IPSL",
+    "detailsLink": "#"
+  },
+  {
+    "id": 41,
+    "title": "Master en Intelligence Artificielle",
+    "institution": "Université Cheikh Anta Diop - UCAD",
+    "level": "Master",
+    "duration": "3 ans",
+    "description": "Programme Master en Intelligence Artificielle proposé par Université Cheikh Anta Diop - UCAD",
+    "detailsLink": "#"
+  },
+  {
+    "id": 42,
+    "title": "Master en Réseaux et Télécommunications",
+    "institution": "Université Gaston Berger - UGB",
+    "level": "Bac",
+    "duration": "4 ans",
+    "description": "Programme Master en Réseaux et Télécommunications proposé par Université Gaston Berger - UGB",
+    "detailsLink": "#"
+  },
+  {
+    "id": 43,
+    "title": "Master en Droit",
+    "institution": "Université Assane Seck - UASZ",
+    "level": "Licence",
+    "duration": "5 ans",
+    "description": "Programme Master en Droit proposé par Université Assane Seck - UASZ",
+    "detailsLink": "#"
+  },
+  {
+    "id": 44,
+    "title": "Doctorat en Sciences",
+    "institution": "École Supérieure Polytechnique - ESP",
+    "level": "Master",
+    "duration": "2 ans",
+    "description": "Programme Doctorat en Sciences proposé par École Supérieure Polytechnique - ESP",
+    "detailsLink": "#"
+  },
+  {
+    "id": 45,
+    "title": "BTS en Réseaux et Télécommunications",
+    "institution": "Université Alioune Diop - UAD",
+    "level": "Bac",
+    "duration": "3 ans",
+    "description": "Programme BTS en Réseaux et Télécommunications proposé par Université Alioune Diop - UAD",
+    "detailsLink": "#"
+  },
+  {
+    "id": 46,
+    "title": "BTS en Gestion",
+    "institution": "Université Virtuelle du Sénégal - UVS",
+    "level": "Licence",
+    "duration": "4 ans",
+    "description": "Programme BTS en Gestion proposé par Université Virtuelle du Sénégal - UVS",
+    "detailsLink": "#"
+  },
+  {
+    "id": 47,
+    "title": "Diplôme d'Ingénieur",
+    "institution": "Institut Supérieur d'Informatique - ISI",
+    "level": "Master",
+    "duration": "5 ans",
+    "description": "Programme Diplôme d'Ingénieur proposé par Institut Supérieur d'Informatique - ISI",
+    "detailsLink": "#"
+  },
+  {
+    "id": 48,
+    "title": "Classes Préparatoires Intégrées",
+    "institution": "SupdeCo Dakar",
+    "level": "Bac",
+    "duration": "2 ans",
+    "description": "Programme Classes Préparatoires Intégrées proposé par SupdeCo Dakar",
+    "detailsLink": "#"
+  },
+  {
+    "id": 49,
+    "title": "Licence Informatique",
+    "institution": "Ecole Nationale d'Économie Appliquée - ENEA",
+    "level": "Licence",
+    "duration": "3 ans",
+    "description": "Programme Licence Informatique proposé par Ecole Nationale d'Économie Appliquée - ENEA",
+    "detailsLink": "#"
+  },
+  {
+    "id": 50,
+    "title": "Licence Mathématiques",
+    "institution": "Institut Polytechnique de Saint Louis - IPSL",
+    "level": "Master",
+    "duration": "4 ans",
+    "description": "Programme Licence Mathématiques proposé par Institut Polytechnique de Saint Louis - IPSL",
+    "detailsLink": "#"
+  },
+  {
+    "id": 51,
+    "title": "Classes Préparatoires Intégrées",
+    "institution": "Institut Polytechnique de Saint Louis - IPSL",
+    "level": "Bac",
+    "duration": "5 ans",
+    "description": "Concours d'entrée aux classes préparatoires à l'Institut Polytechnique de Saint Louis - IPSL",
+    "detailsLink": "#"
+  }
+]

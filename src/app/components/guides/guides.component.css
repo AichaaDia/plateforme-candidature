@@ -3,13 +3,12 @@
   border-radius: 10px;
   padding: 1.5rem;
   margin-top: 1rem;
-  margin-right: 2rem;
+  margin-left: 1rem;
+
   width: 100%;
   max-width: 300px;
   font-family: 'Segoe UI', sans-serif;
-
-  /* Ombres comme sur la maquette */
-  box-shadow: 25px 25px 25px 25px rgba(0, 0, 0, 0.1);
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 .guide-header {
