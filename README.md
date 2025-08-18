@@ -15,7 +15,7 @@ Elle permet aux candidats de postuler en ligne et à l’administration de gére
 ---
 
 ## 🖼️ Aperçu de la plateforme
-![Aperçu de la plateforme](./src/assets/icons/img.png)
+![Aperçu de la plateforme](src/assets/icons/img.png)
 
 ---
 
