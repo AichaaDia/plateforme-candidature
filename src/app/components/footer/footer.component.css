@@ -1,0 +1,21 @@
+.footer {
+  width: 100%;
+  background-color: white;
+  margin-top: 10px;
+  position: static;
+  bottom: 0px;
+  height: 70px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: solid #C26B2F 1px;
+}
+
+.footer-content {
+  color: #C26B2F;
+}
+
+.footer-content span {
+  font-weight: bold;
+}

@@ -1,0 +1,163 @@
+.candidatures-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px 40px;
+    font-family: Arial, sans-serif;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.candidatures-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+}
+
+.candidatures-header i {
+    margin-right: 20px;
+    font-size: 50px;
+}
+
+h1 {
+    margin: 10px 0;
+}
+
+.search-filter {
+    display: flex;
+    height: 40px;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.search-box {
+    width: 60%;
+    margin-right: 10px;
+    font-size: 2rem;
+}
+
+.search-box input {
+    width: 100%;
+    height: 40px;
+    padding: 10px 30px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.search-box .search-icon {
+  height: 20px;
+  position: absolute;
+  opacity: 50%;
+  transform: translate(8px, 15px);
+}
+
+.filters {
+    display: flex;
+    align-items: center;
+}
+
+select {
+    height: 40px;
+}
+
+.filter-tag {
+    width: 50%;
+    height: 40px;
+    margin-right: 10px;
+    padding: 10px 10px;
+    border: #eeeeee solid 1px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    font-size: large;
+
+}
+
+.filter-tag .active {
+    background-color: #e0e0e0;
+    color: #333;
+}
+
+.candidature-list {
+  min-height: 500px;
+}
+
+.candidature-card {
+    margin: 20px 0;
+    border-radius: 10px;
+    border: #e0e0e0 1px solid;
+    padding: 15px 20px;
+}
+
+.candidature-card div {
+    margin-bottom: 10px;
+}
+
+.candidature-card h3 {
+    font-size: x-large;
+    margin-bottom: 5px;
+}
+
+.sub-title {
+  display: flex;
+  p {
+    margin-right: 20px;
+  }
+}
+
+.institution {
+    font-weight: bold;
+    color: #555;
+}
+
+.duration {
+    color: #666;
+}
+
+.description {
+    color: #444;
+    margin-bottom: 10px;
+}
+
+.details-link-container {
+  width: 100%;
+  height: fit-content;
+  background-color: red;
+}
+
+.details-link {
+    display: inline-block;
+    color: #C26B2F;
+    text-decoration: none;
+    border-radius: 4px;
+    border: #e0e0e0 1px solid;
+    padding: 10px 15px;
+    position: relative;
+    left: 85%;
+}
+
+.details-link:hover {
+    text-decoration: underline;
+}
+
+.pagination {
+    display: flex;
+    margin: 10px 0;
+    justify-content: center;
+
+  button {
+    padding: 5px;
+    background-color: white;
+    color: #C26B2F;
+    border: #C26B2F solid 2px;
+    border-radius: 4px;
+    margin-right: 7px;
+  }
+
+  .active {
+    padding: 5px;
+    background-color: #C26B2F;
+    color: #fff;
+    border: #C26B2F solid 2px;
+    border-radius: 4px;
+  }
+}
