@@ -1,27 +1,60 @@
-# PlateformeCandidature
+# 📌 Plateforme de Candidatures - UGB
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.15.
+Cette application **Angular** est une plateforme de gestion et de dépôt de candidatures pour l'Université Gaston Berger (UGB).  
+Elle permet aux candidats de postuler en ligne et à l’administration de gérer efficacement les candidatures.
 
-## Development server
+- Page d'acceuil fonctionnelle
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Fonctionnalités principales
+- Dépôt de candidatures en ligne.
+- Gestion des informations personnelles et académiques.
+- Visualisation et suivi de l’état d’une candidature.
+- Interface utilisateur moderne et responsive.
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🖼️ Aperçu de la plateforme
+![Aperçu de la plateforme](./src/assets/icons/img.png)
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## ⚙️ Configuration
 
-## Running unit tests
+### 1️⃣ Cloner le projet
+```bash
+git clone https://github.com/votre-repo/ugb-candidatures.git
+cd ugb-candidatures
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### 2️⃣ Installer les dépendances
+```bash
+npm install
+```
 
-## Running end-to-end tests
+### 3️⃣ Lancer l'application
+```bash
+ng serve
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Puis ouvrez http://localhost:4200 dans votre navigateur.
 
-## Further help
+---
+## 🔗 Configuration du Backend
+L’URL du backend est définie dans le fichier :
+`src/app/services/candidatures/candidatures.service.ts`
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Par défaut, elle peut pointer vers un serveur de développement.
+👉 Pour changer l’API utilisée, remplacez l’URL dans le service par celle de votre backend :
+```ts
+// Exemple dans candidatures.service.ts
+private url = 'http://localhost:8080/api/candidatures'; 
+```
+
+---
+## 🛠️ Technologies utilisées
+- Angular (Framework Frontend)
+
+- TypeScript
+
+- HttpClient
