@@ -161,3 +161,73 @@ select {
     border-radius: 4px;
   }
 }
+
+@media (max-width: 768px) {
+  .candidatures-container {
+    width: 100vw;
+    margin: 0;
+    font-size: 5vw;
+  }
+
+  .candidatures-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0;
+    font-size: 100%;
+  }
+
+  .candidatures-header i {
+    margin-right: 10px;
+    font-size: 200%;
+  }
+
+  .search-filter {
+    display: flex;
+    flex-direction: column;
+    height: 40%;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .search-box {
+    width: 100%;
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+
+  .filters {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+
+  select {
+    height: 40px;
+  }
+
+  .candidature-card {
+    font-size: 80%;
+  }
+
+  .candidature-card .sub-title{
+    display: flex;
+    flex-direction: column;
+    p {
+      margin-bottom: 5px;
+    }
+  }
+
+  .candidature-card .description{
+    transform: translate(0 ,-5px);
+  }
+
+
+  .details-link {
+    width: 100%;
+    left: 0;
+    display: flex;
+    justify-content: center;
+  }
+
+}
